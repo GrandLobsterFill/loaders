@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GrandLobsterFill/loaders/main/loaders/pets-universe-spam0-1sen9do7ge3v5v.lua"))()
