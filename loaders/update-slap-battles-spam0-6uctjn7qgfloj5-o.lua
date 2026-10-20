@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GrandLobsterFill/loaders/main/loaders/update-slap-battles-spam0-6uctjn7qgfloj5.lua"))()
