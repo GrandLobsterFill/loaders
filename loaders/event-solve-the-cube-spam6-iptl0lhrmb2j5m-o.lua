@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GrandLobsterFill/loaders/main/loaders/event-solve-the-cube-spam6-iptl0lhrmb2j5m.lua"))()
